@@ -1,4 +1,5 @@
 name: Build NeoFreeBird
+run-name: Build NeoFreeBird
 
 on:
   workflow_dispatch:
